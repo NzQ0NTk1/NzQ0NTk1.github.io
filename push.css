@@ -40,10 +40,14 @@ body {background-images: url(images/i4.gif); background-repeat: no-repeat; backg
 }
 #dt {font-family:verdana;font-weight:bold;font-size:12px;line-height: 15px;}
 
-#pre {position:absolute; visibility:hidden; z-index:200; width:130; }
+#pre {position:absolute; visibility:hidden; z-index:200; width:130;
+	font-family: DOS;
+	}
 
 #header
 {
+	color: green;
+    font-family: DOS;
 	margin-left: 100px;
 	margin-bottom: 20px;
 }
@@ -72,7 +76,7 @@ body {background-images: url(images/i4.gif); background-repeat: no-repeat; backg
 
 #monitor
 {
-	margin-left: 100px;	
+	margin-left: -5px;	
 }
 
 #wtf
